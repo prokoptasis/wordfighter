@@ -1,0 +1,2 @@
+D:\_my_source\source_mine\031100_word_fighter\Debug\WordFighter.exe
+D:\_my_source\source_mine\031100_word_fighter\Debug\WordFighter.pdb

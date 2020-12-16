@@ -1,0 +1,13 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  WordFighterDlg.cpp
+D:\_my_source\source_mine\031100_word_fighter\WordFighterDlg.cpp(354,16): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\_my_source\source_mine\031100_word_fighter\WordFighterDlg.cpp(391,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\_my_source\source_mine\031100_word_fighter\WordFighterDlg.cpp(479,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  WordFighter.cpp
+D:\_my_source\source_mine\031100_word_fighter\WordFighter.cpp(52,2): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  코드를 생성하고 있습니다...
+StdAfx.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  WordFighter.vcxproj -> D:\_my_source\source_mine\031100_word_fighter\Debug\WordFighter.exe
